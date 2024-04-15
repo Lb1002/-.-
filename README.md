@@ -11,7 +11,11 @@
 1、InternLM2-Chat-7B
 ![image](https://github.com/Lb1002/-.-/assets/51111702/60467407-c0ad-421b-9ffc-471e84dec546)
 
-2、
+2、Lagent:
+
+![image](https://github.com/Lb1002/-.-/assets/51111702/89fd45cb-d074-4dc2-ac1e-c93d5f5e2353)
+
+
 
 
 
