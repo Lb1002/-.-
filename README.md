@@ -7,5 +7,11 @@
 2、Chat-八戒 Demo：
 ![image](https://github.com/Lb1002/-.-/assets/51111702/96a9423c-8259-440b-9161-a103c8939018)
 
+二、晋阶作业：
+1、InternLM2-Chat-7B
+![image](https://github.com/Lb1002/-.-/assets/51111702/60467407-c0ad-421b-9ffc-471e84dec546)
+
+2、
+
 
 
